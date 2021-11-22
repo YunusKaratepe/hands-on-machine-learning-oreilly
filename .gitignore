@@ -1,2 +1,5 @@
 Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow-O’Reilly.pdf
 __pycache__
+.idea
+models
+datas/mnist_data.csv
